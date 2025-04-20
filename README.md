@@ -8,4 +8,6 @@ You'll learn how to:
 - Identify popular tracks and playlists
 - Help the store understand its business growth with data-driven insights
 
-Perfect for anyone starting with SQL and data analysis!
+Database and Tools
+Postgre SQL
+PgAdmin4
